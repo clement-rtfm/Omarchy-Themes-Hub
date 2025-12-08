@@ -14,10 +14,10 @@ Ici sont répertoriés tout les thèmes en mode "dark" que j'ai créée.
 Aperçu :  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab385077-b512-4362-bec3-f985e036a799" />
 
-**Repo :** https://github.com/clement-rtfm/the-red-omarchy-theme **  
+**Repo :** https://github.com/clement-rtfm/the-red-omarchy **  
 **Installation :**
 ````bash
-omarchy-theme-install https://github.com/clement-rtfm/the-red-omarchy-theme
+omarchy-theme-install https://github.com/clement-rtfm/the-red-omarchy
 ````
 
 ### **Nom du thème (ex: Nord Dark)**
