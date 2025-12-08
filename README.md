@@ -12,7 +12,7 @@ Ici sont répertoriés tout les thèmes en mode "dark" que j'ai créée.
 
 ### **The Red Omarchy**
 Aperçu :  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab385077-b512-4362-bec3-f985e036a799" />
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/ab385077-b512-4362-bec3-f985e036a799" />
 
 **Repo :** https://github.com/clement-rtfm/the-red-omarchy **  
 **Installation :**
