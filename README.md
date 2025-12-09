@@ -26,7 +26,7 @@ omarchy-theme-install https://github.com/clement-rtfm/the-red-omarchy
 ### **Arena Gold**  
 
 Aperçu :  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4c249fe-e092-490b-add3-0b71d75089c3" /> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c7e1a4d-79c8-4fa2-a969-7a3b1d98188e" />  
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/d4c249fe-e092-490b-add3-0b71d75089c3" /> <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/6c7e1a4d-79c8-4fa2-a969-7a3b1d98188e" />  
 
 **Repo : https://github.com/clement-rtfm/arena-gold**   
 
