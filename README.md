@@ -6,15 +6,13 @@ Chaque thème inclut un lien vers son repo, un aperçu et une commande d'install
 ---
 
 ## 🌑 Dark Themes
-
 Ici sont répertoriés tout les thèmes en mode "dark" que j'ai créée.
+
 
 
 ### **The Red Omarchy**
 Aperçu :  
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/5972234c-709b-4cff-a339-51d5bfbdaebe" /> <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/2cb78060-7aaf-43c7-aa52-4e007c4754fb" />
-
-
 **Repo : https://github.com/clement-rtfm/the-red-omarchy**  
 **Installation :**
 ````bash
@@ -31,3 +29,19 @@ Aperçu :
 git clone https://github.com/USER/theme-nord ~/.config/omarchy/themes/nord
 omarchy reload
 ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🌕 Light Themes
