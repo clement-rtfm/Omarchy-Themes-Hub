@@ -92,6 +92,22 @@ Aperçu :
 omarchy-theme-install https://github.com/clement-rtfm/r34-fury
 ````
 
+### **Night Bloom**  
+
+Aperçu :  
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/873d60a6-7b89-47af-b381-d93a9e41d047" />
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/2a258848-09da-4dc2-aa66-78ce48623c2c" />
+
+
+**Repo : https://github.com/clement-rtfm/night-bloom**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/night-bloom
+````
+
+
+
 
 
 
