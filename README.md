@@ -73,3 +73,17 @@ omarchy-theme-install https://github.com/clement-rtfm/eco-hack
 
 
 ## 🌕 Light Themes
+
+
+### **NSX Glow**  
+
+Aperçu :  
+<img width="500" height="281" alt="nsx-glow1" src="https://github.com/user-attachments/assets/1c883726-e3b3-422f-91b5-bc7da6e65c2a" />
+<img width="500" height="281" alt="nsx-glow4" src="https://github.com/user-attachments/assets/5f986abd-af81-438f-be3e-2ddcb80a741a" />
+
+**Repo : https://github.com/clement-rtfm/nsx-glow**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/nsx-glow
+````
