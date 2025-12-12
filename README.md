@@ -79,7 +79,18 @@ omarchy-theme-install https://github.com/clement-rtfm/pink-sovereign
 ````
 
 
+### **R34 Fury**  
 
+Aperçu :  
+<img width="1920" height="1080" alt="r34-fury1" src="https://github.com/user-attachments/assets/4179c9d7-50d2-42e4-b733-f23c9aa2d7c1" />
+<img width="1920" height="1080" alt="r34-fury4" src="https://github.com/user-attachments/assets/e489ccad-f5d7-4d1e-b879-3068db0d25d3" />
+
+**Repo : https://github.com/clement-rtfm/r34-fury**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/r34-fury
+````
 
 
 
