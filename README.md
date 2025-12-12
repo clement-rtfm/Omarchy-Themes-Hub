@@ -39,7 +39,8 @@ omarchy-theme-install https://github.com/clement-rtfm/arena-gold
 ### **Cyber Dash**  
 
 Aperçu :  
-<img width="500" height="281" alt="cyber-dash1" src="https://github.com/user-attachments/assets/5d7387de-4329-464e-8d52-b3be7029481b" /> <img width="500" height="281" alt="cyber-dash2" src="https://github.com/user-attachments/assets/3b738abe-4b1d-4db9-9754-9048e728a230" />
+<img width="1920" height="1080" alt="cyber-dash1" src="https://github.com/user-attachments/assets/de1b8fad-5cd1-4411-84fd-d9698c8ffbcd" />
+<img width="1920" height="1080" alt="cyber-dash4" src="https://github.com/user-attachments/assets/26103295-5cc3-4cba-a1e0-4d6668537b92" />
 
 **Repo : https://github.com/clement-rtfm/cyber-dash**   
 
