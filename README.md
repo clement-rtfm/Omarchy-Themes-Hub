@@ -52,8 +52,8 @@ omarchy-theme-install https://github.com/clement-rtfm/cyber-dash
 ### **Eco Hack**  
 
 Aperçu :  
-<img width="1920" height="1080" alt="eco-hack1" src="https://github.com/user-attachments/assets/2955d2bb-3a0e-41a2-8221-bf6c226703ca" />
-<img width="1920" height="1080" alt="eco-hack4" src="https://github.com/user-attachments/assets/b6079b4c-ec1d-4a99-ab10-dbe00f1ff3f3" />
+<img width="500" height="281" alt="eco-hack1" src="https://github.com/user-attachments/assets/2955d2bb-3a0e-41a2-8221-bf6c226703ca" />
+<img width="500" height="281" alt="eco-hack4" src="https://github.com/user-attachments/assets/b6079b4c-ec1d-4a99-ab10-dbe00f1ff3f3" />
 
 **Repo : https://github.com/clement-rtfm/eco-hack**   
 
