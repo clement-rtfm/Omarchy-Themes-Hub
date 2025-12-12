@@ -64,7 +64,19 @@ omarchy-theme-install https://github.com/clement-rtfm/eco-hack
 ````
 
 
+### **Pink Sovereign**  
 
+Aperçu :  
+<img width="500" height="281" alt="pink-sovereign1" src="https://github.com/user-attachments/assets/26475aa3-b158-4f24-832e-7af022d2d339" />
+<img width="500" height="281" alt="pink-sovereign4" src="https://github.com/user-attachments/assets/74311b04-7477-4523-b146-90ef4eb7d070" />
+
+
+**Repo : https://github.com/clement-rtfm/pink-sovereign**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/pink-sovereign
+````
 
 
 
