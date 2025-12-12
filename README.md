@@ -107,6 +107,57 @@ omarchy-theme-install https://github.com/clement-rtfm/night-bloom
 ````
 
 
+### **Dream Portal**  
+
+Aperçu :  
+<img width="500" height="281" alt="dream-portal1" src="https://github.com/user-attachments/assets/426ea1cf-1532-42e9-9fa0-a7681a484cdf" />
+<img width="500" height="281" alt="dream-portal4" src="https://github.com/user-attachments/assets/1b153b19-3c5f-409a-a332-d310f66729ce" />
+
+
+**Repo : https://github.com/clement-rtfm/dream-portal**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/dream-portal
+````
+
+
+### **Manga Town**  
+
+Aperçu :  
+<img width="500" height="281" alt="manga-town1" src="https://github.com/user-attachments/assets/4931bb10-c16d-45e0-afb0-0b3f81d80806" />
+<img width="500" height="281" alt="manga-town4" src="https://github.com/user-attachments/assets/d40eeeb9-9ea3-49fa-9f68-ff03a6e43c0a" />
+
+
+**Repo : https://github.com/clement-rtfm/manga-town**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/manga-town
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
