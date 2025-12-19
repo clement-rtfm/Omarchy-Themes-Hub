@@ -198,6 +198,33 @@ omarchy-theme-install https://github.com/clement-rtfm/space-unix
 
 
 
+### **Take Control**  
+
+Aperçu :  
+<img width="500" height="281" alt="take-control1" src="https://github.com/user-attachments/assets/75773a3e-fb3c-48e6-a53e-cc35e25eae3a" />
+<img width="500" height="281" alt="take-control4" src="https://github.com/user-attachments/assets/ca081281-4140-42f0-8cf2-945c936706c9" />
+
+**Repo : https://github.com/clement-rtfm/take-control**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/take-control
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
