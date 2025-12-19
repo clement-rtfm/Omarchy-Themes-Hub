@@ -140,8 +140,8 @@ omarchy-theme-install https://github.com/clement-rtfm/amd-holidays
 ### **Christmas**  
 
 Aperçu :  
-<img width="1920" height="1080" alt="christmas1" src="https://github.com/user-attachments/assets/9d584d26-c6e9-4dff-946a-81546ef97e7b" />
-<img width="1920" height="1080" alt="christmas4" src="https://github.com/user-attachments/assets/e5829c59-5c34-4196-b100-49089ded7704" />
+<img width="500" height="281" alt="christmas1" src="https://github.com/user-attachments/assets/9d584d26-c6e9-4dff-946a-81546ef97e7b" />
+<img width="500" height="281" alt="christmas4" src="https://github.com/user-attachments/assets/e5829c59-5c34-4196-b100-49089ded7704" />
 
 
 **Repo : https://github.com/clement-rtfm/christmas**   
@@ -183,7 +183,18 @@ omarchy-theme-install https://github.com/clement-rtfm/only-arch
 
 
 
+### **Space Unix**  
 
+Aperçu :  
+<img width="500" height="281" alt="only-arch1" src="https://github.com/user-attachments/assets/4e6955ec-5838-487d-8614-6eed33522913" />
+<img width="500" height="281" alt="only-arch4" src="https://github.com/user-attachments/assets/c03b1276-a3f9-4a11-8edb-a25d1aa286f1" />
+
+**Repo : https://github.com/clement-rtfm/space-unix**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/space-unix
+````
 
 
 
