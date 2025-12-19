@@ -186,8 +186,6 @@ omarchy-theme-install https://github.com/clement-rtfm/only-arch
 ### **Space Unix**  
 
 Aperçu :  
-<img width="500" height="281" alt="only-arch1" src="https://github.com/user-attachments/assets/4e6955ec-5838-487d-8614-6eed33522913" />
-<img width="500" height="281" alt="only-arch4" src="https://github.com/user-attachments/assets/c03b1276-a3f9-4a11-8edb-a25d1aa286f1" />
 
 **Repo : https://github.com/clement-rtfm/space-unix**   
 
