@@ -213,7 +213,18 @@ omarchy-theme-install https://github.com/clement-rtfm/take-control
 
 
 
+### **Team Linux**  
 
+Aperçu :  
+<img width="500" height="281" alt="team-linux1" src="https://github.com/user-attachments/assets/4a033a25-b7b9-4106-bad6-393059a0f5ff" />
+<img width="500" height="281" alt="team-linux4" src="https://github.com/user-attachments/assets/9fb0c17a-ab56-4eac-8a32-c631e94ea593" />
+
+**Repo : https://github.com/clement-rtfm/team-linux**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/team-linux
+````
 
 
 
