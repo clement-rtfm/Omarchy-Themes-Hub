@@ -122,18 +122,64 @@ omarchy-theme-install https://github.com/clement-rtfm/dream-portal
 ````
 
 
+### **AMD Holidays**  
+
+Aperçu :  
+<img width="500" height="281" alt="amd-holidays-3 1" src="https://github.com/user-attachments/assets/0de7d1fb-f662-47cc-846f-feff60eb2754" />
+<img width="500" height="281" alt="amd-holidays-3 4" src="https://github.com/user-attachments/assets/7d95b69e-f835-4e8a-9cf4-b8945256e36f" />
+
+
+**Repo : https://github.com/clement-rtfm/amd-holidays**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/amd-holidays
+````
+
+
+### **Christmas**  
+
+Aperçu :  
+<img width="1920" height="1080" alt="christmas1" src="https://github.com/user-attachments/assets/9d584d26-c6e9-4dff-946a-81546ef97e7b" />
+<img width="1920" height="1080" alt="christmas4" src="https://github.com/user-attachments/assets/e5829c59-5c34-4196-b100-49089ded7704" />
+
+
+**Repo : https://github.com/clement-rtfm/christmas**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/christmas
+````
 
 
 
+### **Im-different**  
+
+Aperçu :  
+<img width="500" height="281" alt="im-different1" src="https://github.com/user-attachments/assets/e094df13-666e-4fa3-a3cd-c40fb501dd81" />
+<img width="500" height="281" alt="im-different4" src="https://github.com/user-attachments/assets/5f335934-8573-4f83-9dcf-26fd9d57d86a" />
+
+**Repo : https://github.com/clement-rtfm/im-different**   
+
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/im-different
+````
 
 
 
+### **Only Arch**  
 
+Aperçu :  
+<img width="500" height="281" alt="only-arch1" src="https://github.com/user-attachments/assets/4e6955ec-5838-487d-8614-6eed33522913" />
+<img width="500" height="281" alt="only-arch4" src="https://github.com/user-attachments/assets/c03b1276-a3f9-4a11-8edb-a25d1aa286f1" />
 
+**Repo : https://github.com/clement-rtfm/only-arch**   
 
-
-
-
+**Installation :**
+````bash
+omarchy-theme-install https://github.com/clement-rtfm/only-arch
+````
 
 
 
