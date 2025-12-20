@@ -230,8 +230,8 @@ omarchy-theme-install https://github.com/clement-rtfm/team-linux
 ### **Winter Coming**  
 
 Aperçu :  
-<img width="1920" height="1080" alt="winter-coming1" src="https://github.com/user-attachments/assets/60725e11-9731-4c4f-a4aa-125b0ad4397d" />
-<img width="1920" height="1080" alt="winter-coming4" src="https://github.com/user-attachments/assets/3059fc8e-87d7-4d4a-b42b-8a6d22fd5abb" />
+<img width="500" height="281" alt="winter-coming1" src="https://github.com/user-attachments/assets/60725e11-9731-4c4f-a4aa-125b0ad4397d" />
+<img width="500" height="281" alt="winter-coming4" src="https://github.com/user-attachments/assets/3059fc8e-87d7-4d4a-b42b-8a6d22fd5abb" />
 
 **Repo : https://github.com/clement-rtfm/winter-coming**   
 
